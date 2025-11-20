@@ -86,11 +86,12 @@ plot2d3('gnn', r);
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/cbfe2f09-f149-4832-97dc-3cb2c1bbac99" />
 
-<img width="660" height="542" alt="image" src="https://github.com/user-attachments/assets/3451a262-abed-473b-a474-3db701b4c287" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/82d75040-038c-43a7-8a53-32fd5cb2546d" />
+
 
 
 ## OUTPUT
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/b4882022-99e0-4173-9244-706ec2edcd8a" />
+<img width="660" height="542" alt="image" src="https://github.com/user-attachments/assets/857be206-8ab9-45b2-a603-e5a62b83852e" />
 
 
 ## RESULT
